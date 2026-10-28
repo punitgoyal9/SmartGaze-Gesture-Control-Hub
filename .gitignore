@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# MediaPipe model files (downloaded automatically)
+*.task
+
+# Generated screenshots
+screenshot_*.png
+
+# Environment and local configuration
+.env
+.vscode/
